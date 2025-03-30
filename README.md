@@ -8,3 +8,8 @@
 
 Анализ результатов сделан в `merge-sort.py`
 
+# License
+
+Copyright (c) 2022 Андрей Храмцов. Licensed under the MIT License.
+
+See the [LICENSE](LICENSE) file for details.
